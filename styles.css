@@ -137,7 +137,7 @@ h2:hover{
     position: absolute;
     left: 0;
     top: 0;
-    width: 150%;
+    width: 1160px;
     height: 1600px;
     animation: animate 25s ease-in-out infinite;
     background-size: cover;
@@ -146,7 +146,7 @@ h2:hover{
     position: absolute;
     left: 0;
     top: 0;
-    width: 130%;
+    width: 1160px;
     height: 1600px;
     
   }
