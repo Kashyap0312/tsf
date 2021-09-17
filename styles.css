@@ -124,7 +124,7 @@ h2:hover{
 /* Media */
 @media (max-width:1200px){
   #blank{
-    height: 1300px;
+    height: 1600px;
   }
   h1{
     font-size: 3rem;
@@ -135,19 +135,19 @@ h2:hover{
   }
   .container{
     position: absolute;
-    left: 150px;
+    left: 0;
     top: 0;
-    width: 200%;
-    height: 1300px;
+    width: 130%;
+    height: 1600px;
     animation: animate 25s ease-in-out infinite;
     background-size: cover;
   }
   .outer{
     position: absolute;
-    left: 150px;
+    left: 0;
     top: 0;
-    width: 200%;
-    height: 1300px;
+    width: 130%;
+    height: 1600px;
     
   }
 
