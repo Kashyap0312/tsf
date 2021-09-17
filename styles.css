@@ -135,11 +135,11 @@ h2:hover{
   }
   .container{
     position: absolute;
-    left: 0;
+    left: 10%;
     top: 0;
-    width: 100%;
+    width: 130%;
     height: 1600px;
-    animation: animate 25s ease-in-out infinite;
+    animation: animate 16ease-in-out infinite;
     background-size: cover;
   }
   .outer{
