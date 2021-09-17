@@ -137,16 +137,16 @@ h2:hover{
     position: absolute;
     left: 150px;
     top: 0;
-    width: 40%;
+    width: 200%;
     height: 1300px;
     animation: animate 25s ease-in-out infinite;
     background-size: cover;
   }
   .outer{
     position: absolute;
-    left: 70px;
+    left: 150px;
     top: 0;
-    width: 100%;
+    width: 200%;
     height: 1300px;
     
   }
